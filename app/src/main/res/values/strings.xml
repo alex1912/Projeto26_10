@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Webturismo</string>
+    <string name="sua_economia_come_a_aqui">Sua Economia começa aqui</string>
+    <string name="title_activity_home_nova">HomeNova</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hotel_drawner">HotelDrawner</string>
+</resources>
